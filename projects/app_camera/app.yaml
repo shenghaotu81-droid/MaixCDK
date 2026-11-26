@@ -1,6 +1,6 @@
-id: camera
-name: Camera
-name[zh]: 相机
+id: camera-1440x1080
+name: Camera-1440x1080
+name[zh]: 相机-1440x1080
 version: 1.0.0
 icon: assets/camera.json
 author: Sipeed Ltd
