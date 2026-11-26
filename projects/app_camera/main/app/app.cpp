@@ -101,6 +101,7 @@ static ui_camera_resolution_config_t default_resolution_configs[UI_CAMERA_RESOLU
     {false, 3840, 2160, "8.2MP(16:9)"},
     {false, 2560, 1440, "3.7MP(16:9)"},
     {false, 1920, 1080, "2MP(16:9)"},
+    {false, 1280, 960, "1.2MP(4:3)"},
     {false, 1280, 720, "0.9MP(16:9)"},
     {false, 640, 480, "0.3MP(4:3)"},
 };
